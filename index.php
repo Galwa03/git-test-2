@@ -9,5 +9,10 @@
 <body>
     <h1>Git Remote</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa cupiditate repellat pariatur consectetur ab fugit possimus dolorum, nulla libero minima nam vitae molestiae nihil id, rem maxime! Culpa, maiores hic.</p>
+    <ul>
+        <li>1</li>
+        <li>2</li>
+        <li>3</li>
+    </ul>
 </body>
 </html>
